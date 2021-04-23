@@ -4,9 +4,7 @@
 
 Unfortunatly this app is on hold until I actually receive my recently ordered PinePhone or librem 5 🤣.
 
-<img src="./screenshots/main.png" alt="drawing" width="200"/>
-<img src="./screenshots/search.png" alt="drawing" width="200"/>
-<img src="./screenshots/edit.png" alt="drawing" width="200"/>
+<img src="./screenshots/main.png" alt="drawing" width="300"/> <img src="./screenshots/search.png" alt="drawing" width="300"/> <img src="./screenshots/edit.png" alt="drawing" width="300"/>
 
 ### Features
    - Weekly, monthly and yearly cycles.
